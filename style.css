@@ -28,10 +28,11 @@ footer{
     clear: both;
     text-align: center;
     padding: 10px auto;
+    background-color: grey;
 }
 .titulo-central{
     display: flex;
-    margin: 20px;
+    margin: 10px;
 }
 .caixa-menuprincipal{
     float: right;
@@ -71,6 +72,9 @@ footer{
 }
 .caixa-disciplinas ul{
     list-style-type: none;
+    margin-top: 10px;
+}
+.caixa-disciplinas ul li{
     margin-top: 10px;
 }
 .caixa-disciplinas ul li a {
